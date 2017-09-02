@@ -1,0 +1,124 @@
+body {
+	max-width: 1920px;
+	margin: 0 auto;
+}
+
+.nav {
+    margin-left: 20% !important;
+
+}
+
+.navbar-brand {
+    padding: 19px 80px;
+    font-size: 25px;
+  }
+
+.navbar-default .navbar-brand {
+    color: red;
+}
+
+.navbar-default {
+    border: 0px solid transparent;
+    background-color: #7f4141;
+    border-color: #e7e7e7;
+background: rgb(237, 237, 237);
+background: -moz-linear-gradient(91deg, rgb(237, 237, 237) 33%, rgb(175, 175, 175) 96%);
+background: -webkit-linear-gradient(91deg, rgb(237, 237, 237) 33%, rgb(175, 175, 175) 96%);
+background: -o-linear-gradient(91deg, rgb(237, 237, 237) 33%, rgb(175, 175, 175) 96%);
+background: -ms-linear-gradient(91deg, rgb(237, 237, 237) 33%, rgb(175, 175, 175) 96%);
+background: linear-gradient(181deg, rgb(237, 237, 237) 33%, rgb(175, 175, 175) 96%);
+-webkit-box-shadow: 3px 10px 5px 0px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    3px 10px 5px 0px rgba(50, 50, 50, 0.75);
+box-shadow:         3px 10px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+.logo1 {
+	width: 70px;
+	height: auto;
+}
+
+.carousel-caption {
+	background: rgba(175, 175, 175, 0.85);
+-moz-border-radius-topleft: 71px;
+-webkit-border-top-left-radius: 71px;
+ border-top-left-radius: 71px;
+-moz-border-radius-topright: 5px;
+-webkit-border-top-right-radius: 5px;
+border-top-right-radius: 5px;
+-moz-border-radius-bottomright: 71px;
+-webkit-border-bottom-right-radius: 71px;
+border-bottom-right-radius: 71px;
+-moz-border-radius-bottomleft: 5px;
+-webkit-border-bottom-left-radius: 5px;
+border-bottom-left-radius: 5px;
+max-width: 20%;
+bottom: 50%;
+border: 4px solid red;
+color: black;
+}
+
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0px;
+    
+}
+
+.content2 {
+	height: 700px;
+	background-image: url("https://www.audi.de/content/dam/nemo/models/q5/q5/my-2017-nf/rotation-headlights-1180-v2/1039.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+
+
+#collapse-yellow {
+	background-color: yellow;
+
+}
+
+  #collapse-black{
+	background-color: black;
+}
+
+#collapse-red{
+	background-color: red;
+}
+
+.wrap {
+	max-width: 720px; 
+	margin: 0 auto;
+}
+
+.glyphicon-leaf  {
+	color: green;
+	font-size: 50px;
+}
+
+.glyphicon-wrench  {
+	color: red;
+	font-size: 50px;
+}
+
+.glyphicon-road {
+	color: grey;
+	font-size: 50px;
+}
+
+.glyphicon-dashboard {
+	color: white;
+	font-size: 50px;
+}
+
+.row {
+	border: 0px solid transparent;
+    background-color: #7f4141;
+    border-color: #e7e7e7;
+background: rgb(237, 237, 237);
+background: -moz-linear-gradient(91deg, rgb(237, 237, 237) 33%, rgb(175, 175, 175) 96%);
+background: -webkit-linear-gradient(91deg, rgb(237, 237, 237) 33%, rgb(175, 175, 175) 96%);
+background: -o-linear-gradient(91deg, rgb(237, 237, 237) 33%, rgb(175, 175, 175) 96%);
+background: -ms-linear-gradient(91deg, rgb(237, 237, 237) 33%, rgb(175, 175, 175) 96%);
+background: linear-gradient(181deg, rgb(237, 237, 237) 33%, rgb(175, 175, 175) 96%);
+
+}
